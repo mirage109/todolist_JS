@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "marked": false
+  },
+  {
+    "id": 2,
+    "title": "Finish coding project",
+    "marked": true
+  },
+  {
+    "id": 3,
+    "title": "Go for a run",
+    "marked": false
+  },
+  {
+    "id": 4,
+    "title": "Read a book",
+    "marked": false
+  },
+  {
+    "id": 5,
+    "title": "Call a friend",
+    "marked": true
+  }
+]

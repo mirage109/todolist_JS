@@ -1,0 +1,29 @@
+.done {
+  text-decoration: line-through;
+}
+.todo {
+  border: 2px solid black;
+  width: 40%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px;
+  padding: 15px;
+  font-weight: 700;
+  font-size: larger;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+.button {
+  background-color: darksalmon;
+  border: 1px solid grey;
+  width: 120px;
+  height: 28px;
+  border-radius: 9px;
+  margin: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: large;
+}
